@@ -1,0 +1,192 @@
+{
+  {
+    categoryId:0,
+    CategoryName:"King-Sized Combos",
+    CategoryImageURL:"https://cdn.sanity.io/images/czqk28jt/prod_bk_za/4468a8ddd5efcd385bc6cd339677cea3e1a91295-1000x500.png?w=320&q=40&fit=max&auto=format",
+    Products :[
+      {
+        name:"King-Sized Combo 1",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:60.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 2",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:100.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 3",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:120.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 4",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:200.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 5",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:300.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+     
+    ]
+  },
+  {
+    categoryId:1,
+    CategoryName:"King Chicken Burgers",
+    CategoryImageURL:"https://cdn.sanity.io/images/czqk28jt/prod_bk_za/4468a8ddd5efcd385bc6cd339677cea3e1a91295-1000x500.png?w=320&q=40&fit=max&auto=format",
+    Products :[
+      {
+        name:"King-Sized Combo 1",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:60.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 2",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:100.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 3",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:120.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 4",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:200.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 5",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:300.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+     
+    ]
+  },
+  {
+    categoryId:2,
+    CategoryName:"King Beef Burgers",
+    CategoryImageURL:"https://cdn.sanity.io/images/czqk28jt/prod_bk_za/4468a8ddd5efcd385bc6cd339677cea3e1a91295-1000x500.png?w=320&q=40&fit=max&auto=format",
+    Products :[
+      {
+        name:"King-Sized Combo 1",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:60.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 2",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:100.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 3",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:120.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 4",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:200.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 5",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:300.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+     
+    ]
+  },
+  {
+    categoryId:3,
+    CategoryName:"Gourmet",
+    CategoryImageURL:"https://cdn.sanity.io/images/czqk28jt/prod_bk_za/4468a8ddd5efcd385bc6cd339677cea3e1a91295-1000x500.png?w=320&q=40&fit=max&auto=format",
+    Products :[
+      {
+        name:"King-Sized Combo 1",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:60.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 2",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:100.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 3",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:120.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 4",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:200.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 5",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:300.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+     
+    ]
+  },
+  {
+    categoryId:4,
+    CategoryName:"Whoopers",
+    CategoryImageURL:"https://cdn.sanity.io/images/czqk28jt/prod_bk_za/4468a8ddd5efcd385bc6cd339677cea3e1a91295-1000x500.png?w=320&q=40&fit=max&auto=format",
+    Products :[
+      {
+        name:"King-Sized Combo 1",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:60.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 2",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:100.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 3",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:120.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 4",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:200.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        name:"King-Sized Combo 5",
+        Details:"Enjoy four legendary Whoppers, two medium drinks and two medium fries.This item contains milk, eggs, soy, wheat, sesame, gluten and sulphur dioxide. Modifications are not represented in this list.",
+        Price:300.00,
+        ImageURL="https://cdn.sanity.io/images/czqk28jt/prod_bk_za/f184c8bf5bb38a2060046933dba2df059cfd725c-1000x500.png?w=320&q=40&fit=max&auto=format"
+      },
+     
+    ]
+  },
+}
